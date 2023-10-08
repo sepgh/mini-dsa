@@ -17,6 +17,12 @@ Is not good at traversing, normally does it in `O(N)`. But its extremely fast `O
 Getting, deleting and editing from middle is costly and are done with `O(N)`.
 
 
+## Array vs Linked List
+
+Traversing in arrays are done with `O(1)`. However their size is limited so if you want to write a new value outside the bound you need to copy the array into a larger array first which is `O(N)` operation. Arrays need to allocate memory when they are defined, while a linked list is more optimized in this regard.
+
+More details: https://frontendmasters.com/courses/algorithms/arrays-vs-linked-list/
+
 
 ## Links (other)
 
