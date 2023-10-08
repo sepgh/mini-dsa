@@ -6,5 +6,7 @@ My minimal DSA notebook! Just holding some little information of some Data Struc
 - Search algorithms:
   - [Linear search](https://github.com/sepgh/mini-dsa/blob/main/search/linear.md)
   - [Binary search](https://github.com/sepgh/mini-dsa/blob/main/search/linear.md)
+- Sort algorithms:
+  - [Bubble sort](https://github.com/sepgh/mini-dsa/blob/main/sort/bubble.md)
 - Problems:
   - [Two crystal balls](https://github.com/sepgh/mini-dsa/blob/main/problem/2_crystal_balls.md)
