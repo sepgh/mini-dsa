@@ -9,8 +9,10 @@ My minimal DSA notebook! Just holding some little information of some Data Struc
 - Sort algorithms:
   - [Bubble sort](https://github.com/sepgh/mini-dsa/blob/main/sort/bubble.md)
 - Data Structures:
-  - [Linked list](https://github.com/sepgh/mini-dsa/blob/main/DS/linkedlist.md)
+  - [LinkedList](https://github.com/sepgh/mini-dsa/blob/main/DS/linkedlist.md)
   - [Queue](https://github.com/sepgh/mini-dsa/blob/main/DS/queue.md)
   - [Stack](https://github.com/sepgh/mini-dsa/blob/main/DS/stack.md)
+  - [ArrayList](https://github.com/sepgh/mini-dsa/blob/main/DS/arraylist.md)
+  - [ArrayBuffer](https://github.com/sepgh/mini-dsa/blob/main/DS/arraybuffer.md)
 - Problems:
   - [Two crystal balls](https://github.com/sepgh/mini-dsa/blob/main/problem/2_crystal_balls.md)
