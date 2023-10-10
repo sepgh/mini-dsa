@@ -17,7 +17,8 @@ My minimal DSA notebook! Just holding some little information of some Data Struc
   - [ArrayList](https://github.com/sepgh/mini-dsa/blob/main/DS/arraylist.md)
   - [ArrayBuffer](https://github.com/sepgh/mini-dsa/blob/main/DS/arraybuffer.md)
 - [Tree](https://github.com/sepgh/mini-dsa/blob/main/DS/trees/README.md)
-  - [Traversal](https://github.com/sepgh/mini-dsa/blob/main/DS/trees/traversal.md)
+  - [Traversal (depth first)](https://github.com/sepgh/mini-dsa/blob/main/DS/trees/traversal.md)
+  - [Breadth First](https://github.com/sepgh/mini-dsa/blob/main/DS/trees/breadth_first.md)
 - [Recursion](https://github.com/sepgh/mini-dsa/blob/main/recursion/README.md)
   - [Path finding](https://github.com/sepgh/mini-dsa/blob/main/recursion/path_finding.md)
 - Problems:
