@@ -24,3 +24,4 @@ My minimal DSA notebook! Just holding some little information of some Data Struc
 - Problems:
   - [Two crystal balls](https://github.com/sepgh/mini-dsa/blob/main/problem/2_crystal_balls.md)
   - [Path finding](https://github.com/sepgh/mini-dsa/blob/main/recursion/path_finding.md)
+  - [Tree comparison](https://github.com/sepgh/mini-dsa/blob/main/DS/trees/binary_tree_comparison.md)
