@@ -1,4 +1,4 @@
-# Tree traversal
+# Tree traversal  (Depth First)
 
 > A traversal is as simple as visiting a node, which means you're gonna do something with the value of the node. And then we're going to recurse!
 > Recurse, of course, is that fun operation of calling a functionto do the same thing again, but on a new node.
@@ -36,6 +36,12 @@ recurseLeft()
 recurseRight()
 visitNode()
 ```
+
+## Why "Depth First"?
+ 
+ If we do an in order traversal we are going to go left allthe way until we can no longer go left.In other words we're gonna go as deep as possible in this tree on the left handside and then visit a node.Then we're gonna go right once and then go as left as deep as possible andthen come back and visit that node. And so if you think about we always go depth first, right that's what that means, that's why it's called the DFS or depth first search or depth first traversal.
+
+ That's all you're doing which means **we can technically do any of these traversals without using recursion**. We just simply have to a**dd the children to a stack** and we do the same thing.
 
 ## Running time
 
