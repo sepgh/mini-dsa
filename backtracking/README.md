@@ -46,8 +46,6 @@ bool solve(Sudoku* sudoku, int index){
     int box_first_row = floor(row / 3) * 3;
     int box_first_col = floor(col / 3) * 3;
 
-    // printf("Box > ");
-
     int m,n;
     for (m = 0; m < 3; m++){
         for (n = 0; n < 3; n++){
