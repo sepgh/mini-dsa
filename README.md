@@ -21,6 +21,7 @@ My minimal DSA notebook! Just holding some little information of some Data Struc
   - [Breadth First](https://github.com/sepgh/mini-dsa/blob/main/DS/trees/breadth_first.md)
 - [Recursion](https://github.com/sepgh/mini-dsa/blob/main/recursion/README.md)
   - [Path finding](https://github.com/sepgh/mini-dsa/blob/main/recursion/path_finding.md)
+- [Backtracking](https://github.com/sepgh/mini-dsa/blob/main/backtracking/README.md)
 - Problems:
   - [Two crystal balls](https://github.com/sepgh/mini-dsa/blob/main/problem/2_crystal_balls.md)
   - [Path finding](https://github.com/sepgh/mini-dsa/blob/main/recursion/path_finding.md)
