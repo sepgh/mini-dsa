@@ -20,6 +20,7 @@ My minimal DSA notebook! Just holding some little information of some Data Struc
   - [Traversal (depth first)](https://github.com/sepgh/mini-dsa/blob/main/DS/trees/traversal.md)
   - [Breadth First](https://github.com/sepgh/mini-dsa/blob/main/DS/trees/breadth_first.md)
   - [Binary search tree](https://github.com/sepgh/mini-dsa/blob/main/DS/trees/binary_search_tree.md)
+  - [Heap](https://github.com/sepgh/mini-dsa/blob/main/DS/trees/heap.md)
 - [Recursion](https://github.com/sepgh/mini-dsa/blob/main/recursion/README.md)
   - [Path finding](https://github.com/sepgh/mini-dsa/blob/main/recursion/path_finding.md)
 - [Backtracking](https://github.com/sepgh/mini-dsa/blob/main/backtracking/README.md)
