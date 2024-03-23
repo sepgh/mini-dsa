@@ -23,7 +23,8 @@ My minimal DSA notebook! Just holding some little information of some Data Struc
   - [Heap](https://github.com/sepgh/mini-dsa/blob/main/DS/trees/heap.md)
   - [Trie](https://github.com/sepgh/mini-dsa/blob/main/DS/trees/trie.md)
 - [Graphs](https://github.com/sepgh/mini-dsa/blob/main/DS/graphs/README.md)
-  - Todo
+  - [Adjacency](https://github.com/sepgh/mini-dsa/blob/main/DS/graphs/adjacency.md)
+  - [DFS on Adjacency List](https://github.com/sepgh/mini-dsa/blob/main/DS/graphs/DFS-adjacency-list.md)
 - [Recursion](https://github.com/sepgh/mini-dsa/blob/main/recursion/README.md)
   - [Path finding](https://github.com/sepgh/mini-dsa/blob/main/recursion/path_finding.md)
 - [Backtracking](https://github.com/sepgh/mini-dsa/blob/main/backtracking/README.md)
