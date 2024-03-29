@@ -6,5 +6,5 @@ Source of image and tutorial: https://www.youtube.com/watch?v=pVfj6mxhdMw
 
 Running time depends on how we find unvisited node with shortest path. If an array is used: `O(V^2 + E)`, but using heap it can be reduced to `O(Log(V) * (V+E))`
 
-
+Min heap explanation: https://www.youtube.com/watch?v=GazC3A4OQTE
 
