@@ -25,6 +25,7 @@ My minimal DSA notebook! Just holding some little information of some Data Struc
 - [Graphs](https://github.com/sepgh/mini-dsa/blob/main/DS/graphs/README.md)
   - [Adjacency](https://github.com/sepgh/mini-dsa/blob/main/DS/graphs/adjacency.md)
   - [DFS on Adjacency List](https://github.com/sepgh/mini-dsa/blob/main/DS/graphs/DFS-adjacency-list.md)
+  - [Dijkstra Shortest Path](https://github.com/sepgh/mini-dsa/blob/main/DS/graphs/Dijkstra.md)
 - [Recursion](https://github.com/sepgh/mini-dsa/blob/main/recursion/README.md)
   - [Path finding](https://github.com/sepgh/mini-dsa/blob/main/recursion/path_finding.md)
 - [Backtracking](https://github.com/sepgh/mini-dsa/blob/main/backtracking/README.md)
