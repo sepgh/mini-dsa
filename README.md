@@ -5,7 +5,7 @@ My minimal DSA notebook! Just holding some little information of some Data Struc
 - [Big O](https://github.com/sepgh/mini-dsa/blob/main/big-o.md)
 - Search algorithms:
   - [Linear search](https://github.com/sepgh/mini-dsa/blob/main/search/linear.md)
-  - [Binary search](https://github.com/sepgh/mini-dsa/blob/main/search/linear.md)
+  - [Binary search](https://github.com/sepgh/mini-dsa/blob/main/search/binary.md)
 - Sort algorithms:
   - [Bubble sort](https://github.com/sepgh/mini-dsa/blob/main/sort/bubble.md)
   - [Quick sort](https://github.com/sepgh/mini-dsa/blob/main/sort/quick.md)
